@@ -6,8 +6,8 @@ void main ()
   printf("second num");
   scanf("%d",&b);
   c=a+b
-  printf("the product is ");
-  
+  d=a*b
+  printf("the product is " %d ,d);
   printf("the sum is " %d c);
 printf("hello bro");
 }
